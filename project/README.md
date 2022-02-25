@@ -4,6 +4,9 @@
 ```
 npm install
 ```
+```
+mv bootstrap.min.css node_modules/bootstrap/dist/css/
+```
 
 ### Compiles and hot-reloads for development
 ```
