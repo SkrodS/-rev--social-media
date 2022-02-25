@@ -1,9 +1,8 @@
 .DS_Store
 /dist
 
-!/node_modules/
-/node_modules/*
-!/node_modules/myTemplate/bootstrap
+node_modules/*
+!node_modules/bootstrap/
 
 # local env files
 .env.local
